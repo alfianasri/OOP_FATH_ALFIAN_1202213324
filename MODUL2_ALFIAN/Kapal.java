@@ -17,6 +17,6 @@ public class Kapal extends TransportasiAir {
     }
     
     public void berlayar(int kecepatan){
-        System.out.println("Transportasi Air jenis Kapal sedang berlayar menggunakan mesin" + "" + mesin + " dengan kecepatan stabil di kisaran " +kecepatan+ " knot");
+        System.out.println("Transportasi Air jenis Kapal sedang berlayar menggunakan mesin " + mesin + " dengan kecepatan stabil di kisaran " +kecepatan+ " knot");
     }
 }
