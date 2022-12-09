@@ -9,7 +9,7 @@ public class TransportasiAir {
     }
     
     public void informasi(){
-        System.out.println("Transportasi Air jenis Sampan tidak dikteahui dengan kursi berjumlah" + "" + jumlahKursi + " ditetapkan dengan biaya sebesar Rp." + biaya);
+        System.out.println("Transportasi Air jenis Sampan tidak dikteahui dengan kursi berjumlah " + jumlahKursi + " ditetapkan dengan biaya sebesar Rp." + biaya);
     }
 
     public void berlayar(){
