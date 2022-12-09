@@ -13,7 +13,7 @@ public class Kapal extends TransportasiAir {
     }
     @Override
     public void berlayar(){
-    System.out.println("Transportasi Air jenis Kapal sedang berlayar menggunakan mesin" + "" + mesin + " dengan kecepatan yang tidak stabil");
+    System.out.println("Transportasi Air jenis Kapal sedang berlayar menggunakan mesin " + mesin + " dengan kecepatan yang tidak stabil");
     }
     
     public void berlayar(int kecepatan){
